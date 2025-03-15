@@ -12,7 +12,7 @@ Experienced iOS Developer with 9 years of expertise, including 3 years with Flut
 * 🤝  I'm open to collaborating on Mobile projects
 
 <a href="https://www.github.com/diegocuru" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/diegocuru?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
+src="https://img.shields.io/github/followers/diegocuru?logo=github&style=for-the-badge&color=64748b&labelColor=ffffff" /></a>
 
 ### Skills
 
@@ -30,6 +30,6 @@ src="https://img.shields.io/github/followers/diegocuru?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/diegocuru"><img src="https://github-readme-stats.vercel.app/api?username=diegocuru&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="diegocuru's GitHub stats" /></a>
+<a href="http://www.github.com/diegocuru"><img src="https://github-readme-stats.vercel.app/api?username=diegocuru&show_icons=true&hide=issues,contribs&count_private=true&title_color=64748b&text_color=64748b&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="diegocuru's GitHub stats" /></a>
 
-<a href="https://github.com/diegocuru" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocuru&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/diegocuru" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocuru&langs_count=10&title_color=64748b&text_color=64748b&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
