@@ -32,8 +32,4 @@ src="https://img.shields.io/github/followers/diegocuru?logo=github&style=for-the
 
 <a href="http://www.github.com/diegocuru"><img src="https://github-readme-stats.vercel.app/api?username=diegocuru&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="diegocuru's GitHub stats" /></a>
 
-<a href="http://www.github.com/diegocuru"><img src="https://github-readme-streak-stats.herokuapp.com/?user=diegocuru&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="http://www.github.com/diegocuru"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=diegocuru&bg_color=ffffff&color=64748b&line=0891b2&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/diegocuru" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocuru&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
